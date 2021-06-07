@@ -1,0 +1,2 @@
+rootProject.name = "P07 ProblemStatement"
+include ':app'
